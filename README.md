@@ -54,7 +54,7 @@ PlayStation 2판 **Guardian Angel (ガーディアンエンジェル / 가디언
 
 > 메뉴와 시스템 메시지, 게임 진행에 필요한 주요 UI 텍스트를 한국어화할 예정입니다.
 
-<img width="2322" height="1323" alt="스크린샷 2026-09-30 234624" src="https://github.com/user-attachments/assets/dad137e4-aece-4ba1-81e7-26dcd4029143" />
+
 
 
 ### I.B.S. / Synchro
