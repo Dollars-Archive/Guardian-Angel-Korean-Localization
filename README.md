@@ -1,4 +1,4 @@
-<img width="2337" height="1300" alt="스크린샷 2026-09-30 234136" src="https://github.com/user-attachments/assets/e2e6520c-c87b-40c7-8c0f-77c74b1ee59c" /># Guardian Angel 한국어 패치
+# Guardian Angel 한국어 패치
 
 PlayStation 2판 **Guardian Angel (ガーディアンエンジェル / 가디언 엔젤)** 비공식 한국어 패치 프로젝트입니다.
 
