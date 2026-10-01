@@ -1,4 +1,4 @@
-# Guardian Angel 한국어 패치
+<img width="2337" height="1300" alt="스크린샷 2026-09-30 234136" src="https://github.com/user-attachments/assets/e2e6520c-c87b-40c7-8c0f-77c74b1ee59c" /># Guardian Angel 한국어 패치
 
 PlayStation 2판 **Guardian Angel (ガーディアンエンジェル / 가디언 엔젤)** 비공식 한국어 패치 프로젝트입니다.
 
@@ -30,15 +30,32 @@ PlayStation 2판 **Guardian Angel (ガーディアンエンジェル / 가디언
 
 ## 한국어화 범위
 
-현재 아래 항목을 중심으로 분석 및 한국어화를 진행할 예정입니다.
+>현재 아래 항목을 중심으로 분석 및 한국어화를 진행할 예정입니다.
+
+### 타이틀 화면
+
+>타이틀 화면 이미지를 한글화했습니다.
+
+<img width="2337" height="1300" alt="스크린샷 2026-09-30 234136" src="https://github.com/user-attachments/assets/953d3a17-7d2b-4b16-94ee-69ac477e0e1c" />
+
+### 이름 입력
+
+> 주인공 이름 한글로 입력할 수 있게 시스템 수정했습니다
+
+<img width="2315" height="1280" alt="스크린샷 2026-09-30 234206" src="https://github.com/user-attachments/assets/9b80a48a-09cf-4812-8fb6-f1253a98d296" />
 
 ### 대사 / 이벤트
 
 > 스토리 대사와 이벤트 텍스트의 추출·번역·재삽입을 목표로 합니다.
 
+<img width="2333" height="1318" alt="스크린샷 2026-09-30 235035" src="https://github.com/user-attachments/assets/e4d6338b-a6c4-469c-b04c-2afe21d551c2" />
+
 ### 시스템 / UI
 
 > 메뉴와 시스템 메시지, 게임 진행에 필요한 주요 UI 텍스트를 한국어화할 예정입니다.
+
+<img width="2322" height="1323" alt="스크린샷 2026-09-30 234624" src="https://github.com/user-attachments/assets/dad137e4-aece-4ba1-81e7-26dcd4029143" />
+
 
 ### I.B.S. / Synchro
 
