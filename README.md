@@ -51,29 +51,11 @@ PlayStation 2판 **Guardian Angel (ガーディアンエンジェル / 가디언
 
 ## 메뉴·UI
 
-상태: 일부
-
-### 이름 입력
-
 > 주인공 이름 한글로 입력할 수 있게 시스템 수정했습니다
 
 <img width="2315" height="1280" alt="스크린샷 2026-09-30 234206" src="https://github.com/user-attachments/assets/9b80a48a-09cf-4812-8fb6-f1253a98d296" />
 
-### 시스템 / UI
-
-> 메뉴와 시스템 메시지, 게임 진행에 필요한 주요 UI 텍스트를 한국어화할 예정입니다.
-
-### I.B.S. / Synchro
-
-> **Inspire Bullet System (I.B.S.)**, **Synchro** 등 작품 고유 시스템과 관련된 텍스트를 확인하고 한국어화할 예정입니다.
-
 ## 대사
-
-상태: 미작업
-
-### 대사 / 이벤트
-
-> 스토리 대사와 이벤트 텍스트의 추출·번역·재삽입을 목표로 합니다.
 
 <img width="2333" height="1318" alt="스크린샷 2026-09-30 235035" src="https://github.com/user-attachments/assets/e4d6338b-a6c4-469c-b04c-2afe21d551c2" />
 
@@ -81,13 +63,10 @@ PlayStation 2판 **Guardian Angel (ガーディアンエンジェル / 가디언
 
 상태: 미작업
 
-### 이미지 / 기타 텍스트
-
-> 게임 내 이미지에 포함된 일본어, 기타 진행에 필요한 텍스트 자산도 구조 확인 후 작업 범위에 포함할 예정입니다.
-
 ## 동영상 자막
 
-상태: 확인 필요
+<img width="765" height="578" alt="스크린샷 2026-10-05 135227" src="https://github.com/user-attachments/assets/3d1ba0a4-b7d6-4cad-887e-962d6b0c838e" />
+
 
 <!-- kr-patch:scope:v1:end -->
 
