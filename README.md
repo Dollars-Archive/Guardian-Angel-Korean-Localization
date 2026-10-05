@@ -4,33 +4,44 @@ PlayStation 2판 **Guardian Angel (ガーディアンエンジェル / 가디언
 
 현재 프로젝트는 **초기 분석 및 한글화 준비 단계**입니다.
 
+<!-- kr-patch:game-info:v1:start -->
+## 게임 정보
+
+| 항목 | 내용 |
+| --- | --- |
+| 한글 제목 | 가디언 엔젤 |
+| 원제 | ガーディアンエンジェル / Guardian Angel |
+| 시리즈 | 기타 |
+| 플랫폼 | PlayStation 2 |
+| 개발사 | Vridge |
+| 발매사 | Datam Polystar |
+| 장르 | SF 추리 ADV |
+| 장르 상세 | 시간축·다중시점 SF 미스터리 / 추리 어드벤처 |
+| 일본 발매일 | 2003년 2월 27일 |
+| 플레이타임 | 20–40시간 |
+| 지원 판본 | PlayStation 2 일본판 |
+| 제품 번호 | `SLPS-25214` |
+
+<!-- kr-patch:game-info:v1:end -->
+
+> [!NOTE]
+> 본 프로젝트에는 게임 본편이나 원본 게임 파일이 포함되지 않습니다.  
+> **한국어 패치를 적용하려면 사용자가 직접 보유한 PlayStation 2 일본판 `SLPS-25214` 원본이 필요합니다.**
+
 ## 게임 소개
 
 작품의 상세 정보, 시놉시스, 시스템 특징과 한글화 후보 분석은 아래 아카이브에서 확인할 수 있습니다.
 
 **[Guardian Angel 게임 소개 · 한글화 발굴 아카이브](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/game.html?file=platforms%2Fps2%2Fgames%2Fguardian-angel.md)**
 
-## 게임 정보
-
-| 항목 | 내용 |
-| --- | --- |
-| 원제 | ガーディアンエンジェル / Guardian Angel |
-| 한글 제목 | 가디언 엔젤 |
-| 플랫폼 | PlayStation 2 |
-| 장르 | 시간축·다중시점 SF 미스터리 / 추리 어드벤처 |
-| 일본 발매일 | 2003년 2월 27일 |
-| 개발사 | Vridge |
-| 발매사 | Datam Polystar |
-| 제품번호 | `SLPS-25214` |
-| 지원 판본 | PlayStation 2 일본판 |
-
-> [!NOTE]
-> 본 프로젝트에는 게임 본편이나 원본 게임 파일이 포함되지 않습니다.  
-> **한국어 패치를 적용하려면 사용자가 직접 보유한 PlayStation 2 일본판 `SLPS-25214` 원본이 필요합니다.**
-
-## 한국어화 범위
-
+<!-- kr-patch:scope:v1:start -->
 >현재 아래 항목을 중심으로 분석 및 한국어화를 진행할 예정입니다.
+
+<!-- 각 항목의 상태만 완료 / 일부 / 미작업 / 해당 없음 중 하나로 수정합니다. 기존 근거가 부족한 항목은 확인 필요로 남깁니다. -->
+
+## 타이틀 한글화
+
+상태: 완료
 
 ### 타이틀 화면
 
@@ -38,11 +49,27 @@ PlayStation 2판 **Guardian Angel (ガーディアンエンジェル / 가디언
 
 <img width="2337" height="1300" alt="스크린샷 2026-09-30 234136" src="https://github.com/user-attachments/assets/953d3a17-7d2b-4b16-94ee-69ac477e0e1c" />
 
+## 메뉴·UI
+
+상태: 일부
+
 ### 이름 입력
 
 > 주인공 이름 한글로 입력할 수 있게 시스템 수정했습니다
 
 <img width="2315" height="1280" alt="스크린샷 2026-09-30 234206" src="https://github.com/user-attachments/assets/9b80a48a-09cf-4812-8fb6-f1253a98d296" />
+
+### 시스템 / UI
+
+> 메뉴와 시스템 메시지, 게임 진행에 필요한 주요 UI 텍스트를 한국어화할 예정입니다.
+
+### I.B.S. / Synchro
+
+> **Inspire Bullet System (I.B.S.)**, **Synchro** 등 작품 고유 시스템과 관련된 텍스트를 확인하고 한국어화할 예정입니다.
+
+## 대사
+
+상태: 미작업
 
 ### 대사 / 이벤트
 
@@ -50,20 +77,19 @@ PlayStation 2판 **Guardian Angel (ガーディアンエンジェル / 가디언
 
 <img width="2333" height="1318" alt="스크린샷 2026-09-30 235035" src="https://github.com/user-attachments/assets/e4d6338b-a6c4-469c-b04c-2afe21d551c2" />
 
-### 시스템 / UI
+## 이미지 번역
 
-> 메뉴와 시스템 메시지, 게임 진행에 필요한 주요 UI 텍스트를 한국어화할 예정입니다.
-
-
-
-
-### I.B.S. / Synchro
-
-> **Inspire Bullet System (I.B.S.)**, **Synchro** 등 작품 고유 시스템과 관련된 텍스트를 확인하고 한국어화할 예정입니다.
+상태: 미작업
 
 ### 이미지 / 기타 텍스트
 
 > 게임 내 이미지에 포함된 일본어, 기타 진행에 필요한 텍스트 자산도 구조 확인 후 작업 범위에 포함할 예정입니다.
+
+## 동영상 자막
+
+상태: 확인 필요
+
+<!-- kr-patch:scope:v1:end -->
 
 ## 프로젝트 진행 상태
 
