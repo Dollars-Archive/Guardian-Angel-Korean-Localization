@@ -95,7 +95,7 @@ PlayStation 2판 **Guardian Angel (ガーディアンエンジェル / 가디언
 
 ## 이미지 번역
 
-상태: 미작업
+<img width="1080" height="244" alt="image" src="https://github.com/user-attachments/assets/7825c4a9-3f07-4042-a1a1-f2cec0bb5125" />
 
 ## 동영상 자막
 
