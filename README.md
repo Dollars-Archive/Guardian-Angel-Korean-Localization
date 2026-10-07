@@ -77,7 +77,9 @@ PlayStation 2판 **Guardian Angel (ガーディアンエンジェル / 가디언
 
 <!-- 각 항목의 상태만 완료 / 일부 / 미작업 / 해당 없음 중 하나로 수정합니다. 기존 근거가 부족한 항목은 확인 필요로 남깁니다. -->
 
-### 타이틀 한글화
+## 타이틀 한글화
+
+<!-- kr-patch:state: 완료 -->
 
 >타이틀 화면 이미지를 한글화했습니다.
 
@@ -85,19 +87,27 @@ PlayStation 2판 **Guardian Angel (ガーディアンエンジェル / 가디언
 
 ## 메뉴·UI
 
+<!-- kr-patch:state: 완료 -->
+
 > 주인공 이름 한글로 입력할 수 있게 시스템 수정했습니다
 
 <img width="2315" height="1280" alt="스크린샷 2026-09-30 234206" src="https://github.com/user-attachments/assets/9b80a48a-09cf-4812-8fb6-f1253a98d296" />
 
 ## 대사
 
+<!-- kr-patch:state: 완료 -->
+
 <img width="2333" height="1318" alt="스크린샷 2026-09-30 235035" src="https://github.com/user-attachments/assets/e4d6338b-a6c4-469c-b04c-2afe21d551c2" />
 
 ## 이미지 번역
 
+<!-- kr-patch:state: 완료 -->
+
 <img width="1080" height="244" alt="image" src="https://github.com/user-attachments/assets/7825c4a9-3f07-4042-a1a1-f2cec0bb5125" />
 
 ## 동영상 자막
+
+<!-- kr-patch:state: 완료 -->
 
 <img width="765" height="578" alt="스크린샷 2026-10-05 135227" src="https://github.com/user-attachments/assets/3d1ba0a4-b7d6-4cad-887e-962d6b0c838e" />
 
