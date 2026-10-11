@@ -15,8 +15,6 @@ PlayStation 2판 **Guardian Angel (ガーディアンエンジェル / 가디언
 <!-- kr-patch:game-info:v1:start -->
 ## 게임 정보
 
-<img align="right" src="https://dollars-archive.github.io/Dollars-Archive/covers/Guardian-Angel-Korean-Localization.webp?v=e7bc3b2e946d" width="220" alt="가디언 엔젤 패키지 표지">
-
 | 항목 | 내용 |
 | --- | --- |
 | 한글 제목 | 가디언 엔젤 |
@@ -31,8 +29,6 @@ PlayStation 2판 **Guardian Angel (ガーディアンエンジェル / 가디언
 | 플레이타임 | 20–40시간 |
 | 지원 판본 | PlayStation 2 일본판 |
 | 제품 번호 | `SLPS-25214` |
-
-<br clear="right">
 
 <!-- kr-patch:game-info:v1:end -->
 
